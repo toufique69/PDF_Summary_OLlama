@@ -1,0 +1,13 @@
+streamlit
+langchain
+langchain-community
+langchain-text-splitters
+langchain-core
+langchain-embeddings
+langchain-prompts
+langchain-retrievers
+langchain-runnables
+unstructured
+chromadb
+ollama
+logging
