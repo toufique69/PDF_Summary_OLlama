@@ -11,13 +11,16 @@ The goal of this project is to develop a "Real-Time PDF Summarization Web Applic
 
 ### Steps
 1. **Clone the repository:**
+
 2. **Download and Setup Ollama:**
 - Visit the Ollama GitHub page.
 - Ensure you have the required model such as "mistral" by running: ollama pull mistral
+
 3. **Install the required packages:**
     ```bash
     pip install -r requirements.txt
     ```
+
 4. **Run the application:**
     ```bash
     streamlit run main.py
